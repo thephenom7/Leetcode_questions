@@ -30,5 +30,5 @@ public:
         calc(root,sum,vect);
         return paths;
         
-    }
+    }//To use go backward in a tree use hashmaps storing key as parent
 };
