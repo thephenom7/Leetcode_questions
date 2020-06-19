@@ -49,7 +49,8 @@ public:
                 
             }
         }
-        return root;
+        return root;//this return is for those nodes that dont satisfy the condition ie for the intermediate nodes.
+
         
         
     }
